@@ -31,9 +31,9 @@ x=input()
 if x == "1":
 	ans=ans+1
 
-print("\n\nWhat can travel around the world while staying in a corner?")
+print("\n\nWho am I? Tear one off and scratch my head what was red is black instead.")
 x=input()
-if x == "STAMP" or x=="stamp":
+if x == "matchstick" or x=="MATCHSTICK":
 	ans=ans+1
 
 print("Doing good, But time is ticking\n")
@@ -45,45 +45,48 @@ time.sleep(1)
 print("Tick..\n")
 time.sleep(1)
 
-print("\n\nOfficially, what does Perl stand for? ( It is a lesser used programming language )")
-print("\n1.Practical Extraction and Reporting Language")
-print("\n2.Nothing LOL")
+print("\n\nA double is classified as what data type?")
+print("\n1.Integer")
+print("\n2.Float")
+print("\n3.Character")
+print("\n4.Array")
 print("\nPlease enter your answer in single digit")
 x=input()
 if x == "2":
 	ans=ans+1
 
-print("\n\nWhat is the shortcut to make text bold? ( No hint, don't look here please )")
-print("\n1.Ctrl+F")
-print("\n2.Ctrl+A")
-print("\n3.Ctrl+B")
-print("\n4.Ctrl+G")
+print("\n\nWhich of these is NOT protected by copyright? ( No hint, don't look here please )")
+print("\n1.Dance Moves")
+print("\n2.Machine Learning Code")
+print("\n3.Ideas")
+print("\n4.Musical pieces")
 print("\nPlease enter your answer in single digit")
 x=input()
 if x == "3":
 	ans=ans+1
 
-print("\n\nWhat icon is represented by the letter 'A' with a line under it? ( No hint, don't look here please )")
-print("\n1.Font colour")
-print("\n2.Font Size")
-print("\n3.Font style")
-print("\n4.Font attributes")
+print("\n\nGIMP is an acronym, or a word that is formed by the first letters from several words that make up a phrase. What does GIMP do?")
+print("\n1.Image editing")
+print("\n2.Coding IDE")
+print("\n3.3D modelling")
+print("\n4.Server Side editing")
 print("\nPlease enter your answer in single digit")
 x=input()
 if x == "1":
 	ans=ans+1
 
-print("\n\nWhich icon is represented by only two pieces of paper with writing? ( No hint, don't look here please )")
-print("\n1.Cut")
-print("\n2.Copy")
-print("\n3.Paste")
+print("\n\nWhich is not a function of a Manufacturing Execution System?")
+print("\n1.Know how to make a product.")
+print("\n2.Plan when to make the product")
+print("\n3.Register how and when the product was made")
+print("\n4.Send an invoice for the product.")
 print("\nPlease enter your answer in single digit")
 x=input()
-if x == "2":
+if x == "4":
 	ans=ans+1
 
 print("Doing good, But time is ticking\n")
-time.sleep(1)
+time.sleep(4)
 print("Tick..\n")
 time.sleep(1)
 print("Tock..\n")
@@ -91,23 +94,24 @@ time.sleep(1)
 print("Tick..\n")
 time.sleep(1)
 
-print("\n\nWhat word is spelled wrong in all the dictionaries?")
+print("\n\nWhat gets shorter when you add two letters to it?")
 x=input()
-if x == "WRONG" or x == "wrong":
+if x == "SHORT" or x == "short":
 	ans=ans+1
 
-print("\n\nA sphere has three, a circle has two, and a point has zero. What is it?")
+print("\n\nWhat gets wetter and wetter the more it dries?( Enter Singular noun ) ")
 x=input()
-if x == "DIMENSIONS" or x == "dimensions":
+if x == "towels" or x == "towel":
 	ans=ans+1
 
-print("\n\nWhat icon is represented by a magnifying glass over a blank piece of paper?")
-print("\n1.Print")
-print("\n2.Find and Replace")
-print("\n3.Print Preview")
+print("\n\nWhat does the 'Q' in QBasic stand for?")
+print("\n1.Quantam")
+print("\n2.Quick")
+print("\n3.Quiet")
+print("\n4.Quinquagenarian")
 print("\nPlease enter your answer in single digit")
 x=input()
-if x == "3":
+if x == "2":
 	ans=ans+1
 
 
